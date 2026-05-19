@@ -409,7 +409,7 @@ height: 40px;
   flex-direction: column;
   padding: 12px;
   align-items: center;
-  row-gap: 40px;
+  row-gap: 20px;
   background-color: rgb(6, 111, 227);
   border-radius: 9px;
   width: 280px; 
